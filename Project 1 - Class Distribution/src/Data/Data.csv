@@ -1,0 +1,126 @@
+Course ID,Section No.,Instructor Name,No. of students,Class day,Class time
+ENCS2110,1,Jamal Othman Hosen Seyam,18,W,8:30 - 11:10
+ENCS2110,2,Ibrahim Ahmed Abdallah Nemer,18,R,8:30 - 11:10
+ENCS2110,3,Ismail Mohammad Mousa Khater,18,M,14:15 - 16:55
+ENCS2110,4,Adnan Hussein Mahmoud Yahya,18,T,11:25 - 14:05
+ENCS2110,5,Ismail Mohammad Mousa Khater,18,W,14:15 - 16:55
+ENCS2110,6,Adnan Hussein Mahmoud Yahya,18,R,11:25 - 14:05
+ENCS2110,7,Khader Shehadeh Nassar Mohammad,18,M,8:30 - 11:10
+ENCS2110,8,Bilal Jafar Hamed Karaki,18,S,14:15 - 16:55
+ENCS2340,1,Ismail Mohammad Mousa Khater,45,T-R,12:50 - 14:05
+ENCS2340,2,Ismail Mohammad Mousa Khater,45,M-W,11:25 - 12:40
+ENCS2340,3,Mohammed Sami Abdul Karim Hussein,45,S-M,11:25 - 12:40
+ENCS2340,4,Bilal Jafar Hamed Karaki,45,M-W,08:30 - 09:45
+ENCS2340,5,Anjad Jamal Rushdi Badran,45,T-R,10:00 - 11:15
+ENCS2340,6,Ibrahim Ahmed Abdallah Nemer,45,M-W,12:50 - 14:05
+ENCS2340,7,Ali Hasan Moath Abdo,45,S-M,08:00 - 09:15
+ENCS2340,8,Anjad Jamal Rushdi Badran,45,T-R,12:50 - 14:05
+ENCS2380,1,Abualseoud Ahmad Abualseoud Hanani,45,S-W,12:50 - 14:05
+ENCS2380,2,Abualseoud Ahmad Abualseoud Hanani,45,M-W,11:25 - 12:40
+ENCS311,1,Abualseoud Ahmad Abualseoud Hanani,1,S,08:30 - 11:10
+ENCS3130,1,Mohammad Khaleel Issa Jubran,20,R,14:15 - 16:55
+ENCS3130,2,Mohammad Khaleel Issa Jubran,20,M,14:15 - 16:55
+ENCS3130,3,Khader Shehadeh Nassar Mohammad,20,W,11:25 - 14:05
+ENCS3130,4,Aziz Mohammed Ahmad Qaroush,20,M,11:25 - 14:05
+ENCS3130,5,Mohammad Khaleel Issa Jubran,20,W,14:15 - 16:55
+ENCS3310,1,Abdallatif S. A. Abuissa,45,S-W,08:30 - 09:45
+ENCS3310,2,Abdallatif S. A. Abuissa,45,S-W,10:00 - 11:15
+ENCS3320,1,Abdalkarim Ishaq Ibraheem Awad,45,T-R,11:25 - 12:40
+ENCS3320,2,Ibrahim Ahmed Abdallah Nemer,45,T-R,12:50 - 14:05
+ENCS3320,3,Abdalkarim Ishaq Ibraheem Awad,45,M-W,11:25 - 12:40
+ENCS3330,1,Khader Shehadeh Nassar Mohammad,45,T-R,08:30 - 09:45
+ENCS3330,2,Khader Shehadeh Nassar Mohammad,45,T-R,12:50 - 14:05
+ENCS3340,1,Aziz Mohammed Ahmad Qaroush,45,M-W,10:00 - 11:15
+ENCS3340,2,Aziz Mohammed Ahmad Qaroush,45,T-R,08:30 - 09:45
+ENCS3390,1,Yazan Jamal Ibrahim Abu Farha,45,M-W,10:00 - 11:15
+ENCS3390,2,Yazan Jamal Ibrahim Abu Farha,45,T-R,11:25 - 12:40
+ENCS3390,3,Bashar Mohammad Abdul Khaliq Tahayna,45,T-R,08:30 - 09:45
+ENCS3390,4,Bashar Mohammad Abdul Khaliq Tahayna,45,T-R,10:00 - 11:15
+ENCS411,1,Abdallatif S. A. Abuissa,18,M,14:15 - 16:55
+ENCS411,2,Abdallatif S. A. Abuissa,18,T,08:30 - 11:10
+ENCS4110,1,Abualseoud Ahmad Abualseoud Hanani,18,T,11:25 - 14:05
+ENCS4110,2,Abualseoud Ahmad Abualseoud Hanani,18,S,14:15 - 16:55
+ENCS4110,3,Ayman Ali Mohammad Hroub,18,W,14:15 - 16:55
+ENCS4110,4,Ayman Ali Mohammad Hroub,18,R,14:15 - 16:55
+ENCS4110,5,Abualseoud Ahmad Abualseoud Hanani,18,M,08:30 - 11:10
+ENCS412,1,Jamal Othman Hosen Seyam,18,W,14:15 - 16:55
+ENCS412,2,Wasel Tahsin Ahmad Ghanem,18,R,14:15 - 16:55
+ENCS412,3,Wasel Tahsin Ahmad Ghanem,18,M,14:15 - 16:55
+ENCS4130,1,Ibrahim Ahmed Abdallah Nemer,16,W,14:15 - 16:55
+ENCS4130,2,Ibrahim Ahmed Abdallah Nemer,16,M,14:15 - 16:55
+ENCS4130,3,Bashar Mohammad Abdul Khaliq Tahayna,16,R,14:15 - 16:55
+ENCS4130,4,Ismail Mohammad Mousa Khater,16,M,08:00 - 10:40
+ENCS4130,5,Mohammed H. S. Helal,16,T,08:00 - 10:40
+ENCS4130,6,Ibrahim Ahmed Abdallah Nemer,16,S,14:15 - 16:55
+ENCS4130,7,Abdalkarim Ishaq Ibraheem Awad,16,W,08:00 - 10:40
+ENCS4130,8,Mohammed H. S. Helal,16,S,11:25 - 14:05
+ENCS4130,9,Ismail Mohammad Mousa Khater,16,S,11:25 - 14:05
+ENCS4310,1,Alhareth M. T. Zyoud,45,S-W,10:00 - 11:15
+ENCS4310,2,Qadri A. A. Mayyala,45,M-W,11:25 - 12:40
+ENCS4310,3,Qadri A. A. Mayyala,45,T-R,12:50 - 14:05
+ENCS4320,1,Ahmad Saleh Ibrahim Alsadeh,45,M-W,12:50 - 14:05
+ENCS4320,2,Ahmad Saleh Ibrahim Alsadeh,45,T-R,12:50 - 14:05
+ENCS4320,3,Ahmad Saleh Ibrahim Alsadeh,45,T-R,10:00 - 11:15
+ENCS4330,1,Hanna Saba Hanna Bullata,45,S-M,08:00 - 09:15
+ENCS4330,2,Hanna Saba Hanna Bullata,45,T-R,08:00 - 09:15
+ENCS4370,1,Ayman Ali Mohammad Hroub,45,M-W,11:25 - 12:40
+ENCS4370,2,Aziz Mohammed Ahmad Qaroush,45,M-W,08:30 - 09:45
+ENCS4370,3,Ayman Ali Mohammad Hroub,45,T-R,10:00 - 11:15
+ENCS4380,1,Wasel Tahsin Ahmad Ghanem,45,T-R,11:25 - 12:40
+ENCS4380,2,Wasel Tahsin Ahmad Ghanem,45,M-W,12:50 - 14:05
+ENCS514,1,Hanna Saba Hanna Bullata,18,S,14:15 - 16:55
+ENCS514,2,Aziz Mohammed Ahmad Qaroush,18,W,11:25 - 14:05
+ENCS514,3,Hanna Saba Hanna Bullata,18,S,11:25 - 14:05
+ENCS514,4,Hanna Saba Hanna Bullata,18,M,11:25 - 14:05
+ENCS5150,1,Yazan Jamal Ibrahim Abu Farha,18,W,14:15 - 16:55
+ENCS5150,2,Mohammed Sami Abdul Karim Hussein,18,R,14:15 - 16:55
+ENCS5150,3,Yazan Jamal Ibrahim Abu Farha,18,M,14:15 - 16:55
+ENCS5150,4,Mohammed Sami Abdul Karim Hussein,18,S,14:15 - 16:55
+ENCS5322,1,Ahmad Saleh Ibrahim Alsadeh,45,M-W,10:00 - 11:15
+ENCS5332,1,Khader Shehadeh Nassar Mohammad,45,T-R,11:25 - 12:40
+ENCS5341,1,Yazan Jamal Ibrahim Abu Farha,45,M-W,12:50 - 14:05
+ENCS5399,1,Ayman Ali Mohammad Hroub,35,S,11:25 - 14:05
+ENEE2102,1,Jaser Abdel Mon'En Fayiz Sa'Ed,18,S,14:15 - 16:55
+ENEE2103,1,Mohammad Jehad Mohammad A'Ta Husni Al Ju'Beh,18,S,14:15 - 16:55
+ENEE2103,2,Nasser Abdel Jaleel Muhammad Ismail,18,T,08:30 - 11:10
+ENEE2103,3,Mohammad Jehad Mohammad A'Ta Husni Al Ju'Beh,18,W,11:25 - 14:05
+ENEE2304,1,Jaser Abdel Mon'En Fayiz Sa'Ed,45,S-W,12:50 - 14:05
+ENEE2304,2,Hakam Suleiman Nu'Man Shehadeh,45,T-R,10:00 - 11:15
+ENEE2307,1,Mohammad Khaleel Issa Jubran,45,M-W,08:30 - 09:45
+ENEE2307,2,Alhareth M. T. Zyoud,45,T-R,10:00 - 11:15
+ENEE2307,3,Mohammad Khaleel Issa Jubran,45,T-R,08:30 - 09:45
+ENEE2307,4,Alhareth M. T. Zyoud,45,T-R,12:50 - 14:05
+ENEE2307,5,Jaser Abdel Mon'En Fayiz Sa'Ed,45,M,14:15 - 16:55
+ENEE2311,1,Alhareth M. T. Zyoud,45,S-M,12:50 - 14:05
+ENEE2311,2,Ali Hasan Moath Abdo,45,M-W,10:00 - 11:15
+ENEE2312,1,Jamal Othman Hosen Seyam,45,M-W,12:50 - 14:05
+ENEE2312,2,Jamal Othman Hosen Seyam,45,T-R,11:25 - 12:40
+ENEE2360,1,Nasser Abdel Jaleel Muhammad Ismail,45,S-M,10:00 - 11:15
+ENEE2360,2,Mohammad Jehad Mohammad A'Ta Husni Al Ju'Beh,45,S-W,08:30 - 09:45
+ENEE2360,3,Nasser Abdel Jaleel Muhammad Ismail,45,S-W,12:50 - 14:05
+ENEE3101,1,Ali Hasan Moath Abdo,15,M,14:15 - 16:55
+ENEE3101,2,Ali Hasan Moath Abdo,15,R,14:15 - 16:55
+ENEE3112,1,Nasser Abdel Jaleel Muhammad Ismail,15,W,14:15 - 16:55
+ENEE3112,2,Mohammad Jehad Mohammad A'Ta Husni Al Ju'Beh,15,T,11:25 - 14:05
+ENEE3302,1,Jamal Othman Hosen Seyam,12,T-R,08:00 - 09:15
+ENEE3304,1,Mohammad Jehad Mohammad A'Ta Husni Al Ju'Beh,45,S-W,10:00 - 11:15
+ENEE3305,1,Muhammad Sharif Mustafa Abu-Khaizaran,45,M-W,11:25 - 12:40
+ENEE3308,1,Hakam Suleiman Nu'Man Shehadeh,45,M-W,12:50 - 14:05
+ENEE3309,1,Wael A. M. Hashlamoun,45,M-W,12:50 - 14:05
+ENEE3309,2,Ashraf Sulieman Awad Al-Rimawi,45,T-R,08:30 - 09:45
+ENEE3309,3,Ashraf Sulieman Awad Al-Rimawi,45,S-M,10:00 - 11:15
+ENEE3309,4,Qadri A. A. Mayyala,45,S-M,12:50 - 14:05
+ENEE3318,1,Ashraf Sulieman Awad Al-Rimawi,45,T-R,10:00 - 11:15
+ENEE4104,1,Jamal Othman Hosen Seyam,20,M,14:15 - 16:55
+ENEE4105,1,Hakam Suleiman Nu'Man Shehadeh,15,W,14:15 - 16:55
+ENEE4113,1,Alhareth M. T. Zyoud,15,R,14:15 - 16:55
+ENEE4113,2,Ashraf Sulieman Awad Al-Rimawi,15,M,11:25 - 14:05
+ENEE4113,3,Qadri A. A. Mayyala,15,M,14:15 - 16:55
+ENEE4113,4,Wael A. M. Hashlamoun,15,T,11:25 - 14:05
+ENEE4113,5,Ashraf Sulieman Awad Al-Rimawi,15,S,11:25 - 14:05
+ENEE4113,6,Qadri A. A. Mayyala,15,S,14:15 - 16:55
+ENEE4302,1,Jamal Othman Hosen Seyam,23,T-R,08:00 - 09:15
+ENEE5102,1,Hakam Suleiman Nu'Man Shehadeh,15,M,14:15 - 16:55
+ENEE5303,1,Mahran S. R. Quraan,45,M-W,11:25 - 12:40
+ENEE5304,1,Wael A. M. Hashlamoun,45,M-W,11:25 - 12:40
+ENEE5307,1,Nasser Abdel Jaleel Muhammad Ismail,45,M-W,11:25 - 12:40

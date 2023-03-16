@@ -1,0 +1,14 @@
+#my-table .column-header .label {
+    -fx-text-fill: black;
+    -fx-font-weight: bold;
+}
+#my-table .column-header{
+	-fx-background-color:#f1c27d;
+}
+#my-table .table-column {
+  -fx-alignment: CENTER;
+}
+
+#my-table .table-row-cell {
+    -fx-cell-size: 25px;
+}
